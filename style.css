@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+#universe {
+  position: relative;
+}
+
+#sun {
+  background: red;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#earth {
+  background: blue;
+  border-radius: 50%;
+  position: absolute;
+}
