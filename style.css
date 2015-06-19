@@ -1,3 +1,7 @@
+body {
+  background: black;
+}
+
 #universe {
   position: relative;
 }
